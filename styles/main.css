@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Alef);
+
 * {
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -5,7 +7,7 @@
 
 body {
 	background: #000 url('../images/background.jpg');
-	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-family: "Alef", "Candara", "Calibri, Segoe", "Segoe UI", Optima, Arial, sans-serif;
 	color: #333;
 }
 
